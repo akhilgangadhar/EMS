@@ -1,5 +1,7 @@
 package com.ems.service;
 
+import com.ems.exception.EmployeeException;
+
 public interface IAdminService {
-	Boolean loginAdmin(String uname,String pass);
+	String loginAdmin(String uname,String pass) throws EmployeeException;
 }

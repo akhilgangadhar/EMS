@@ -13,5 +13,8 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/workspace/EMS/lib/junit4_4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/EMS/lib/ojdbc6_g.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/EMS/lib/log4j-1.2.17.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
